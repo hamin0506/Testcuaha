@@ -37,7 +37,7 @@
             textBox1.Name = "textBox1";
             textBox1.Size = new Size(302, 27);
             textBox1.TabIndex = 0;
-            textBox1.Text = "how to merge";
+            textBox1.Text = "can't merge";
             // 
             // Form2
             // 
