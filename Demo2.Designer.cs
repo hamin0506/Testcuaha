@@ -38,7 +38,7 @@
             label1.Name = "label1";
             label1.Size = new Size(80, 25);
             label1.TabIndex = 0;
-            label1.Text = "Hello Hà";
+            label1.Text = "Hi Thơm";
             // 
             // Demo2
             // 
