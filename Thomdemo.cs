@@ -17,7 +17,7 @@ namespace Testcuaha
             InitializeComponent();
         }
 
-        private void label1_Click(object sender, EventArgs e)
+        private void lbl_Click(object sender, EventArgs e)
         {
             Application.Exit();
         }
