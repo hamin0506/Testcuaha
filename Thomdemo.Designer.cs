@@ -39,7 +39,6 @@
             lblend.Size = new Size(57, 25);
             lblend.TabIndex = 0;
             lblend.Text = "Thoát";
-            lblend.Click += label1_Click;
             // 
             // Thomdemo
             // 
